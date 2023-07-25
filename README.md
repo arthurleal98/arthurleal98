@@ -1,15 +1,42 @@
-# Olá, sou o Arthur Leal
+# Arthur José Candido Franco Leal
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arthurleal98)](https://github.com/arthurleal98)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-leal-5691a115b/)](https://www.linkedin.com/in/arthur-leal-5691a115b/)
+## Sobre mim
+Olá, sou Arthur, um jovem de 25 anos do Brasil. Atualmente estou estudando para me tornar um Tecnólogo na UNINASSAU, no curso em Análise e Desenvolvimento de Sistemas. Anteriormente, estudei Engenharia da Computação no IFPB - Campus Campina Grande.
 
-### Sobre mim
+## Educação
+- Tecnólogo (Em andamento): UNINASSAU - Análise e Desenvolvimento de Sistemas (12/2021 - 12/2023)
+- Graduação (Incompleto): IFPB - Campus Campina Grande - Engenharia da Computação (08/2017 - 11/2021)
 
-Sou um Desenvolverdor Web e um entusiasta no mundo da ciências de dados. Utilizo tecnologias como:
+## Experiência Profissional
+- Empresa: Base2
+- Cargo: Analista de Testes Automatizados (12/2021 - 01/2023)
+- Principais atividades desempenhadas:
+  - Elaboração de casos de testes;
+  - Codificação e execução de testes automatizados;
+  - Homologação de sistemas;
+  - Gerenciamento de bugs;
+  - Automatização de teste usando Selenium WebDriver, na linguagem Java;
+  - Controle de versionamento de códigos usando GIT;
+  - Gestão e aplicação de processo de Integração Contínua e Entrega Contínua com Jenkins;
+  - Criação de Métodos reutilizáveis para acelerar as entregas dos cenários automatizados;
+  - Criação de Pipelines para execução de testes automatizados utilizando Jenkins;
+  - Colaboração com os membros na equipe na codificação e na criação dos testes;
+  - Gerenciamento de backlog de projetos e tarefas usando JIRA;
+  - Criação e acompanhamento de tickets para reportar bugs e solicitar melhorias;
+  - Utilização do JIRA para rastrear o progresso do projeto e garantir a entrega no prazo;
+  - Colaboração com a equipe para priorizar tarefas e resolver problemas usando o JIRA;
+  - Desenvolvimento de scripts e procedures para automatizar tarefas comuns de banco de dados;
+  - Criação e otimização de consultas complexas para extrair informações relevantes dos dados;
+  - Configuração e manutenção de ferramentas de CI/CD, como Jenkins, para automatizar a construção, teste e implantação de código;
+  - Utilização de SQL para consulta e manipulação de dados em bancos de dados relacionais;
 
-- React.js
-- Python
-- HTML5
-- CSS
-- Bootstrap
-- Node.js
+## Conquistas
+Não há informação
+
+## Idiomas
+- Espanhol: Básico
+- Português: Avançado
+- Inglês: Intermediário
+
+## Redes Sociais
+- LinkedIn: https://www.linkedin.com/in/arjocafle/
