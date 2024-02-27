@@ -31,7 +31,7 @@ Olá, sou Arthur, um jovem de 25 anos do Brasil. Atualmente estou estudando para
   - Utilização de SQL para consulta e manipulação de dados em bancos de dados relacionais;
 
 ## Conquistas
-Não há informação
+CTFL(Certified Tester Foundation Level)
 
 ## Idiomas
 - Espanhol: Básico
