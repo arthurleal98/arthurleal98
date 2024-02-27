@@ -1,10 +1,10 @@
 # Arthur José Candido Franco Leal
 
 ## Sobre mim
-Olá, sou Arthur, um jovem de 25 anos do Brasil. Atualmente estou estudando para me tornar um Tecnólogo na UNINASSAU, no curso em Análise e Desenvolvimento de Sistemas. Anteriormente, estudei Engenharia da Computação no IFPB - Campus Campina Grande.
+Olá, sou Arthur, tenho 25 anos. Atualmente estou estudando para me tornar um Tecnólogo na UNINASSAU, no curso em Análise e Desenvolvimento de Sistemas. Anteriormente, estudei Engenharia da Computação no IFPB - Campus Campina Grande.
 
 ## Educação
-- Tecnólogo (Em andamento): UNINASSAU - Análise e Desenvolvimento de Sistemas (12/2021 - 12/2023)
+- Tecnólogo (Em andamento): UNINASSAU - Análise e Desenvolvimento de Sistemas (12/2021 - 06/2024)
 - Graduação (Incompleto): IFPB - Campus Campina Grande - Engenharia da Computação (08/2017 - 11/2021)
 
 ## Experiência Profissional
