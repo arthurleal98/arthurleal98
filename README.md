@@ -1,7 +1,7 @@
 # Arthur José Candido Franco Leal
 
 ## Sobre mim
-Programador amante de Python, e com alguns atritos com Java. Gosto bastante de realizar automações e analise de dados.
+Programador amante de Python, e com alguns atritos com Java. Gosto bastante de criar automações e realizar analise de dados.
 O meu github tá aqui para mostrar o quão eu gosto de programar coisas aleatórias que são baseados em meus problemas do dia a dia.
 
 ## Educação
