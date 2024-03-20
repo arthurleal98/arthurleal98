@@ -1,9 +1,8 @@
 # Arthur José Candido Franco Leal
 
 ## Sobre mim
-Programador amante de Python, e com alguns atritos com Java. Gosto bastante de criar automações e realizar analise de dados.
-O meu github tá aqui para mostrar o quão eu gosto de programar coisas aleatórias que são baseados em meus problemas do dia a dia.
-
+Certifacado pela ISQTB, e sendo um grande amante de testes. Atuo com automatização de testes, além de criar e executar testes manuais.
+Além da área de testes, me aventuro bastante na áreas de dados junto com processos automazidos. Amo brincar e explorar utilizando Python e todas suas ferramentas disponíveis.
 ## Educação
 - Tecnólogo (Em andamento): UNINASSAU - Análise e Desenvolvimento de Sistemas (12/2021 - 06/2024)
 - Graduação (Incompleto): IFPB - Campus Campina Grande - Engenharia da Computação (08/2017 - 11/2021)
@@ -20,4 +19,4 @@ CTFL(Certified Tester Foundation Level)
 - Inglês: Intermediário
 
 ## Redes Sociais
-- LinkedIn: https://www.linkedin.com/in/arjocafle/
+- LinkedIn: https://www.linkedin.com/in/arthurleal1
