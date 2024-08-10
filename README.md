@@ -1,10 +1,46 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lidHAweGxxeTdoZXRxc3J2bmxkcW82d2QxcHc3bXc2Ym0ycWtzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif"  />
-</div>
+# 👋 Olá, eu sou Arthur Leal
 
-###
 
-<h1 align="center">Olá, eu sou o Arthur</h1>
+## 🧑‍💻 Sobre Mim
+- Profissional experiente em testes de software, com mais de 2 anos de experiência e certificação **CTFL** pela **ISTQB**.
+- Especializado em automação de testes para ambientes **web** e **mobile** utilizando **Java**, **Selenium**, **Appium**, e **Cypress**.
+- Experiência prática com **React**, **JavaScript**, **Node.js**, **Python**, **Django**, **MySQL**, **APIs REST**, **testes de performance**, e **testes exploratórios/manuais**.
+- Habilidades comprovadas em desenvolvimento e execução de **testes automatizados**, **testes manuais**, **integração de testes com CI/CD** e utilização de **metodologias ágeis**.
+
+## 💼 Experiência Profissional
+
+### Base2 Tecnologia (Dezembro de 2021 - Fevereiro de 2023)
+**Analista de Testes Automatizados Junior - Cliente Sinqia**
+- Mapeamento de casos e cenários de testes, tanto manualmente quanto por automação.
+- Desenvolvimento e execução de testes automatizados usando **Selenium** e **Appium** com **Java**.
+- Criação de testes baseados em negócios, elaboração de testes de **integração** e **regressão**.
+- Suporte na homologação de versões e geração de evidências de erros detectados.
+- Utilização de **JUnit** e **TestNG** para testes manuais e de **Jenkins** para entrega contínua.
+- Migração de **TestComplete** para **Selenium** e antecipação de massas de testes.
+
+## 🎓 Formação Acadêmica
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UNINASSAU, 2024.
+
+## 📜 Certificações
+- **Test Automation Professional** - LambdaTest (2023)
+- **Certified Tester Foundation Level (CTFL)** - ISTQB (2024)
+- **Intermediate Python** - DataCamp (2024)
+- **Intermediate SQL** - DataCamp (2024)
+
+## 🌐 Idiomas
+- **Português**: Nativo
+- **Inglês**: Intermediário
+- **Espanhol**: Técnico
+
+
+## 🛠️ Conhecimentos Técnicos
+- **Linguagens**: Java, Python, JavaScript, SQL
+- **Frameworks e Ferramentas**: Selenium, Appium, Cypress, TestNG, JUnit, Jenkins, Django
+- **Metodologias**: Testes Automatizados, Testes Manuais, Testes de Regressão, CI/CD, Testes de Performance, Testes E2E
+- **Outros**: Automatização de Processos, Documentação de Testes, Testes Exploratórios
+
+
+## Onde Me Encontrar
 
 ###
 
@@ -15,49 +51,6 @@
   <a href="https://twitter.com/arjocafrle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<p align="left">- 🔭 Estou buscando uma nova oportunidade de trabalho(Me recomenda no teu trabalho!)<br>- 📚 Atualmente estou focado nos estudos de automação de testes, mas também estudo um pouco de análise de dados.<br>- ⚡ Quando posso estou resolvendo problemas e jogando um lolzinho pra me distrair</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3dTFkM3d0anU0d29qbTZvbXp3amR5MjZ2NXp6eGZxcTBhcnZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.gif"  />
-</div>
-
-###
-
-<p align="left">Ah! Tenho experiência profissional com Java pela Base2. Em maior parte do tempo analisando sistemas com testes automatizados</p>
-
-###
-
-<h3 align="left">🛠 Linguagens/Ferramentas que mais uso</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurleal98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="221" alt="languages graph"  />
 </div>
 
 ###
