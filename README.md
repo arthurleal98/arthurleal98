@@ -1,89 +1,69 @@
-# 👋 Olá, eu sou Arthur Leal
+# 👋 Olá, eu sou Arthur Leal!
 
+### 🚀 Engenheiro de Testes | Especialista em Automação de QA | ISTQB® Certified
 
-## 🧑‍💻 Sobre Mim
-Engenheiro de Testes com sólida experiência em automação e BDD, buscando oportunidades para garantir a qualidade de sistemas bancários e financeiros. Possuo expertise em ferramentas como Selenium, Cypress, Postman, JMeter e RestAssured, além de forte conhecimento em programação com Java, Python, JavaScript e SQL. Tenho histórico de otimizar processos de testes, aumentando a eficiência e cobertura de testes em ambientes críticos, sempre colaborando com equipes de alta performance para entregar soluções robustas e inovadoras.
+---
 
+### 💡 Sobre Mim
 
-## Formação
+Sou um Engenheiro de Testes apaixonado por garantir a qualidade de software, com foco em automação e metodologias ágeis. Minha expertise abrange a construção e otimização de frameworks de testes robustos, com um histórico comprovado de aumento de eficiência e cobertura em ambientes críticos, especialmente em sistemas bancários e financeiros. Busco constantemente inovações para entregar soluções de alta performance e qualidade.
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UNINASSAU,  2024
+---
 
-## Certificações
+### 🛠️ Minhas Habilidades
 
-- **ISTQB® Certified Tester Foundation Level (CTFL)**
-- **Data-Driven Decision Making in SQL**
-- **LambdaTest Test Automation Professional Certificate**
-- **Legacy JavaScript Algorithms and Data Structures**
+* **Linguagens:** Python, Java, JavaScript, SQL
+* **Automação de Testes:** Selenium WebDriver, Cypress, Puppeteer, Behave, TestNG, JUnit
+* **Testes de API:** Postman, RestAssured
+* **Performance:** JMeter
+* **CI/CD:** GitHub Actions, Jenkins
+* **Metodologias:** BDD (Behavior-Driven Development), TDD, Scrum, Kanban
+* **Ferramentas:** Git, GitHub, Azure DevOps, Jira, Extent Reports, Surefire Reports
 
-## Idiomas
+---
 
-- **Inglês** - Intermediário (leitura e escrita)
-- **Português** - Nativo
-- **Espanhol** - Técnico
+### 💻 Projetos e Contribuições Relevantes
 
-## Experiência Profissional
+Aqui estão alguns dos meus projetos e contribuições que demonstram minhas habilidades em automação e QA:
 
-### Analista de Testes Automatizados
-**Base2 Tecnologia (Cliente: Sinqia) - Belo Horizonte (Remoto)**
-Dez de 2021 - Fev de 2023
+#### 1. Teste Técnico de QA ([Link para o repositório](https://github.com/arthurleal98/seu-repositorio-teste-tecnico-qa))
+* **Tecnologias:** Cypress, Postman, Node.js, Docker, MySQL, PHP, Gherkin, Cucumber
+* **Destaques:** Identificação e correção de bugs críticos, desenvolvimento de casos de teste BDD, automação E2E com Cypress, testes de API com Postman.
 
-- Desenvolvi e otimizei testes automatizados usando Java, Selenium, TestNG, Jenkins, Jira, e Extent Reports, resultando em um aumento de 30% na cobertura de testes e uma redução de 25% no tempo de execução dos testes.
-- Liderei testes de regressão e smoke para garantir a estabilidade das versões de software, contribuindo para o lançamento de versões de alta qualidade.
-- Implementei a migração de testes do TestComplete para Selenium, o que aumentou a eficiência do processo de automação em 40% e reduziu o tempo de manutenção dos scripts de teste.
-- Gerenciei atividades de teste, incluindo a criação e delegação de tarefas, suporte à equipe de automação e revisão de código, assegurando a entrega dentro dos prazos e com alta qualidade.
-- Atuei em testes de sistemas bancários e financeiros, usando SQL para consultas avançadas e validação de dados, garantindo a precisão das informações processadas.
-- Desenvolvi funcionalidades críticas de teste, como a automação de validação de arquivos XML com mais de 80 mil linhas, antecipando problemas e ampliando a cobertura de testes em sistemas complexos.
-## Projetos Relevantes
+#### 2. Automação de Testes UI - The Internet ([Link para o repositório](https://github.com/arthurleal98/seu-repositorio-automacao-ui))
+* **Tecnologias:** Java, Selenium WebDriver, JUnit, Cucumber, Maven, ChromeDriver, Git
+* **Destaques:** Automação de UI com Selenium, criação de casos de teste Gherkin, implementação de Page Object Model (POM), geração de relatórios com Surefire Reports.
 
-### Projeto: Teste Técnico de QA
-**GitHub:** [Link para o repositório](#)
+#### 3. Testes Automatizados para o Site Cifra Club ([Link para o repositório](https://github.com/arthurleal98/seu-repositorio-cifraclub))
+* **Tecnologias:** Python, Behave, Selenium, Visual Studio Code
+* **Destaques:** Automação de UI com Selenium e Behave, desenvolvimento de casos de teste Gherkin (BDD), implementação de Page Object Model (POM).
 
-**Tecnologias e Ferramentas:** Cypress, Postman, Node.js, Docker, MySQL, PHP, Gherkin, Cucumber
+#### 4. Destaques da Experiência Profissional (Base2 Tecnologia - Cliente Sinqia)
+* **Contexto:** Atuação como Analista de Testes Automatizados em sistemas bancários e financeiros.
+* **Resultados:** Aumento de 30% na cobertura de testes, redução de 25% no tempo de execução, aumento de 40% na eficiência da automação pós-migração de TestComplete para Selenium.
+* **Contribuições:** Liderança em testes de regressão/smoke, automação de validação de arquivos XML (+80 mil linhas), validação de dados com SQL.
 
-- Identifiquei e corrigi bugs críticos, contribuindo para a estabilidade do sistema e a melhoria contínua.
-- Desenvolvi casos de teste em BDD utilizando Gherkin, alinhando os testes automatizados com os requisitos de negócio.
-- Automatizei testes end-to-end (E2E) com Cypress, garantindo a robustez dos principais fluxos de usuário.
-- Realizei testes de API com Postman, assegurando a integridade e o desempenho das integrações.
-- Documentei processos e resultados detalhadamente, facilitando a comunicação entre as equipes de desenvolvimento e QA.
+---
 
-### Projeto: Automação de Testes UI - The Internet
-**GitHub:** [Link para o repositório](#)
+### 🎓 Formação & Certificações
 
-**Tecnologias e Ferramentas:** Java, Selenium WebDriver, JUnit, Cucumber, Maven, ChromeDriver, Git
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UNINASSAU, 2024
+* **ISTQB® Certified Tester Foundation Level (CTFL)**
+* LambdaTest Test Automation Professional Certificate
+* Data-Driven Decision Making in SQL (DataCamp)
+* Legacy JavaScript Algorithms and Data Structures (freeCodeCamp)
 
-- Automatizei testes de interface de usuário (UI) utilizando Selenium WebDriver, melhorando a cobertura e a eficiência dos testes.
-- Criei casos de teste usando Gherkin para facilitar a comunicação entre desenvolvedores e stakeholders, assegurando alinhamento com os requisitos de negócio.
-- Implementei o padrão de projeto Page Object Model (POM), melhorando a manutenção e reusabilidade dos testes automatizados.
-- Gerei relatórios de teste automatizados com Surefire Reports via Maven, garantindo visibilidade clara dos resultados para a equipe.
+---
 
-### Projeto: Testes Automatizados para o Site Cifra Club
+### 🗣️ Idiomas
 
-**GitHub:** [Link para o repositório](#)
+* **Português:** Nativo
+* **Inglês:** Intermediário (leitura e escrita)
+* **Espanhol:** Técnico
 
-**Tecnologias e Ferramentas:** Python, Behave, Selenium, Visual Studio Code, Chrome Browser
+---
 
-- Automatizei testes de UI com Selenium e Behave, assegurando a qualidade das funcionalidades críticas do site.
-- Desenvolvi casos de teste utilizando Gherkin, reforçando a prática de BDD e facilitando o entendimento dos testes para a equipe de negócio.
-- Implementei o padrão Page Object Model (POM), melhorando a escalabilidade e a manutenção dos testes automatizados.
-- Executei testes e gerei relatórios detalhados, contribuindo para a detecção precoce de defeitos e a melhoria contínua do site.
+### 📫 Conecte-se Comigo!
 
-## Habilidades Técnicas
-
-- **Linguagens de Programação:** Java, Python, JavaScript, SQL
-- **Ferramentas de Automação:** Selenium, Cypress, Postman, JMeter, RestAssured
-- **Metodologias:** BDD, TDD, CI/CD
-- **Frameworks:** Cucumber, TestNG, JUnit, Jenkins
-- **Controle de Versão:** Git, GitHub, GitLab
-## Onde Me Encontrar
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arthurleal1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
- 
-</div>
-
-###
+* **LinkedIn:** [linkedin.com/in/arthurleal1/](https://www.linkedin.com/in/arthurleal1/)
+* **Email:** arthurleal1@hotmail.com
